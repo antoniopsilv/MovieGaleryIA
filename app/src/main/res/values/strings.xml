@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MovieManager</string>
+    <string name="nome">Nome</string>
+    <string name="anoLancamento">Ano de Lançamento</string>
+    <string name="producao">Produção</string>
+    <string name="duracao">Duracao</string>
+    <string name="genero">Genero</string>
+    <string name="nota">Nota</string>
+    <string name="salvar">Salvar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="excluir">Excluir</string>
+    <string name="watched">Já assisti!</string>
+</resources>
